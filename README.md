@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" width="100%" alt="Shravani's Developer Banner"/>
+  <img src="./github-banner.png" width="100%" />
 </p>
 # 👩‍💻 Hey, I'm Shravani Mohan Padmawar!
 

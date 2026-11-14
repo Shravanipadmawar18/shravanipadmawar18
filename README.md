@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shravani Mohan Padmawar! 👋
 
-<!--
-**Shravanipadmawar18/shravanipadmawar18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Information Technology Engineering Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer | MERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about building web applications and solving problems through code.
+
+- 🔭 Working on full-stack web development projects.
+- 🌱 Improving my skills in Java, DSA, React.js and backend development.
+- 💡 Interested in Software Development and Full-Stack Engineering.
+- 👩‍💻 Check out my projects and let's connect!
+
+### 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind" />
+</p>
+
+### 📫 Connect With Me
+
+- Portfolio: https://my-portfolio-zeta-three-e1knjasxej.vercel.app
+- LinkedIn: https://www.linkedin.com/in/shravani-padmawar-7b4776293
+- GitHub: https://github.com/Shravanipadmawar18

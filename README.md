@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./github-banner.png" width="100%" />
 </p>
-# 👩‍💻 Hey, I'm Shravani Mohan Padmawar!
+ 👩‍💻 Hey, I'm Shravani Mohan Padmawar!
 
 ### `Java Developer | Web Development Enthusiast`
 
